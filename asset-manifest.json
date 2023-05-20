@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f46f4e24.css",
-    "main.js": "/portfolio/static/js/main.f442d9ba.js",
+    "main.js": "/portfolio/static/js/main.62029906.js",
     "static/media/EgyHub.jpg": "/portfolio/static/media/EgyHub.886398ea609b54d90724.jpg",
     "static/media/SCPSC.jpg": "/portfolio/static/media/SCPSC.db7ffc8802a563fe85bc.jpg",
     "static/media/Ropot-app.jpg": "/portfolio/static/media/Ropot-app.e1ff6cb0c9c6bcd82cf4.jpg",
@@ -14,10 +14,10 @@
     "static/media/bars.svg": "/portfolio/static/media/bars.a2e35dd5aede7934d82e.svg",
     "index.html": "/portfolio/index.html",
     "main.f46f4e24.css.map": "/portfolio/static/css/main.f46f4e24.css.map",
-    "main.f442d9ba.js.map": "/portfolio/static/js/main.f442d9ba.js.map"
+    "main.62029906.js.map": "/portfolio/static/js/main.62029906.js.map"
   },
   "entrypoints": [
     "static/css/main.f46f4e24.css",
-    "static/js/main.f442d9ba.js"
+    "static/js/main.62029906.js"
   ]
 }
